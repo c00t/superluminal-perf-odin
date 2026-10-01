@@ -1,0 +1,21 @@
+# Local Python environment and caches
+/.venv/
+__pycache__/
+*.py[cod]
+
+# Local verification scratch and GUI smoke captures
+/temp/
+/gui-smoke-*/
+/gui-smoke-*.json
+
+# Build outputs and profiler captures
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.etl
+*.session
